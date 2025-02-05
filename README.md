@@ -5,9 +5,8 @@
 
 ###
 
-###
+
 <h2 align="left">Hi 👋! My name is Rahima Akter and I'm a Frontend React Developer</h2>
-###
 
 # 💫 About Me:
 <em>🎓 Education:</em> I’ve completed a diploma in Computer Technology. I’m passionate about learning new technologies and constantly improving my skills.<br><br><em>💻 Aspiring Full-Stack Developer:</em> I’m currently working towards becoming a skilled full-stack developer, and I'm already making great progress!<br><br><em>📚 Currently Learning:</em> Diving deep into Node.js and MongoDB to expand my backend knowledge.<br><br><em>🐞 Bug Creator Since 2022:</em> Because what’s coding without a little debugging, right?<br><br><em>🎯 Goal:</em> To become a successful developer by 2025 and contribute to exciting projects.<br><br>🎲 Fun Fact: Despite my love for coding, I still manage to keep my sense of humor. After all, who doesn’t need a good laugh between lines of code? 😅
