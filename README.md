@@ -1,5 +1,6 @@
+###
 <div align="center">
-  <img height="330" src="https://i.ibb.co.com/LrXtFXn/Rahima-Akter.png"  />
+  <img height="330" src="https://github.com/Rahima-Akter/customer-review-js/blob/main/img/Rahima-Akter.png"  />
 </div>
 
 ###
