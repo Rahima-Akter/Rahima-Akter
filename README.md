@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">Hey  There 😇</h1>
+<h4 align="left">Hey  There 😇</h4>
 
 ###
 
@@ -12,38 +12,38 @@
 
 ###
 
-<h6 align="left">Front-end React Developer</h6>
+<h6 align="left">(Front-end React Developer)</h6>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="center">About me🥰</h2>
 
 ###
 
-<p align="left">i have completed diploma in Computer Technology. I'm interested in learning new technologies.  I want to become a skilled Full-stack developer, and currently i'm working on it.<br><br>📚 I'm currently learning Noje.js, MongoDB<br>✨ Creating bugs since 2022<br>🎯 Goals: Become a successful developer by 2025<br>🎲 Fun fact: i am a person with humor even though i code😅</p>
+<p align="left">🎓 Education: I’ve completed a diploma in Computer Technology. I’m passionate about learning new technologies and constantly improving my skills.<br><br>💻 Aspiring Full-Stack Developer: I’m currently working towards becoming a skilled full-stack developer, and I'm already making great progress!<br><br>📚 Currently Learning: Diving deep into Node.js and MongoDB to expand my backend knowledge.<br><br>🐞 Bug Creator Since 2022: Because what’s coding without a little debugging, right?<br><br>🎯 Goal: To become a successful developer by 2025 and contribute to exciting projects.<br><br>🎲 Fun Fact: Despite my love for coding, I still manage to keep my sense of humor. After all, who doesn’t need a good laugh between lines of code? 😅</p>
 
 ###
 
-<h2 align="left">Skills</h2>
+<h2 align="center">Skills🚀</h2>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js" height="39" alt="javascript logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=react" height="39" alt="react logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="39" alt="bootstrap logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=github" height="39" alt="github logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=html" height="39" alt="html5 logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="39" alt="vscode logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="39" alt="tailwindcss logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=css" height="39" alt="css3 logo"  />
 </div>
 
 ###
