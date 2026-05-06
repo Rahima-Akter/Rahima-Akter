@@ -1,6 +1,6 @@
 ###
 <div align="center">
-  <img height="330" src="[https://github.com/Rahima-Akter/customer-review-js/blob/main/img/Rahima-Akter.png](https://github.com/user-attachments/assets/bbb6c4e8-da64-4e50-97c1-2e3f45bb0ce9)"  />
+  <img height="330" src="https://github.com/Rahima-Akter/customer-review-js/blob/main/img/Rahima-Akter.png"  />
 </div>
 
 ###
