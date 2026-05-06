@@ -17,6 +17,7 @@
 
 ## 🌐 Socials:
 [![My Portfolio](https://img.shields.io/badge/My%20Portfolio-black?style=flat&logo=firefox&logoColor=white)](https://rahima-akter-portfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahima-akter99/)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Rahima_A_Srity)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahimaakter1527@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801827936753)
