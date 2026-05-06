@@ -7,8 +7,8 @@
 
 
 <h2 align="left">
-  Hi 👋! My name is Rahima Akter and I'm a 
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Full+Stack+Developer&size=22&width=220&height=30">
+  Hi 👋! My name is Rahima Akter and I'm a&nbsp;
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Full+Stack+Developer&size=22&width=220&height=30" align="middle">
 </h2>
 
 # 💫 About Me:
@@ -16,7 +16,8 @@
 
 
 ## 🌐 Socials:
-[![My Portfolio](https://img.shields.io/badge/My%20Portfolio-black?style=flat&logo=firefox&logoColor=white)](https://rahima-akter-portfolio.netlify.app/)) [![X(https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Rahima_A_Srity) [![email] (https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahimaakter1527@gmail.com) 
+[![My Portfolio](https://img.shields.io/badge/My%20Portfolio-black?style=flat&logo=firefox&logoColor=white)](https://rahima-akter-portfolio.netlify.app/)) 
+[![X(https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Rahima_A_Srity) [![email] (https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahimaakter1527@gmail.com) 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801827936753)
 
 # 💻 Tech Stack:
